@@ -1,0 +1,19 @@
+<html>
+<head>
+<tittle>ANTOJITOS MEXICANOS</tittle>
+<table border=1 width=100% bgcolor=#DDA0DD>
+<tr>
+<td></td><td>PLATILLOS TRADICIONALES</td><td></td></tr>
+<tr>
+<td>CHILES EN NOGADA</td><td><img src="gg.jpg" whith="70" height="70"></td><td>Es un platillo representativo de la cocina mexicana que hace referencia a los colores de la bandera por los ingredientes con los que se presenta: el verde del chile y el perejil, el blanco de la nogada y el rojo de la granada</td></tr>
+<tr>
+<td>DORILOCOS</td><td><img src="kiki.jpg" whith="70" height="70"></td><td>Es una botana inventada en México,su ingrediente principal son las conocidas botanas Doritos en sus diferentes presentaciones de sabores y se acompañan de verdura rayada,gomitas y chamoy</td></tr>
+<tr>
+<td>TLAYUDAS</td><td><img src="fg.jpg" whith="70" height="70"></td><td>Aunque existen diversas variaciones en sus ingredientes, la tlayuda tradicional está conformada por asiento, frijoles, tasajo (carne seca enchilada), chorizo, quesillo, cecina y se acompaña de chile de agua.</td></tr>
+<tr>
+<td>POZOLE</td><td><img src="jkje.jpg" whith="70" height="70"></td><td>Esta contundente sopa, cuyo ingrediente base es el maíz y según la región se le agrega el tipo de carne y de ingredientes complementarios, puede ser disfrutada a lo largo de todo el territorio</td></tr>
+<tr>
+<td>MOLE</td><td><img src="jije.jpg" whith="70" height="70"></td><td>Es una de las preparaciones más exóticas de México y se caracteriza por contar siempre con diversos tipos de chile, especies aromáticas bastante fuertes y semillas entre sus ingredientes, que son molidos en metates o molcajetes.</td></tr>
+<tr>
+<td>ENCHILADAS</td><td><img src="jk.jpg" whith="70" height="70"></td><td>Este plato consiste en tortillas suaves de maíz rellenas de res, pollo, pavo o cerdo, y queso. Encima se complementan con alguna salsa, que puede ser de fríjoles, chiles, más queso, crema o algún tipo de mole, y se acompañan con algunas verduras frescas como jitomate, lechuga en tiras delgadas, cebolla picada o guacamole.</td></tr>
+<tr>
